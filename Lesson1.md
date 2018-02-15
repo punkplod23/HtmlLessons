@@ -1,5 +1,5 @@
 # Intro
-- Our first step is open this <a href="https://trinket.io/library/trinkets/a9c2635601">link</a>
+- Our first step is open this <a href="https://trinket.io/library/trinkets/a9c2635601" target="_blank">link</a>
 - We are now presented with the below html code, it may look daunting though its just simple HTML
 - We call HTML/ CSS Pseudocode, because they can create complex things though are rather simple. 
 ```html
