@@ -1,8 +1,8 @@
 # Lesson 1
 - Our first step is open this <a href="https://trinket.io/library/trinkets/a9c2635601">link</a>
 - We are now presented with the below html code, it may look daunting though its just simple HTML
-- We call HTML/ CSS Pseudo Languages
-```
+- We call HTML/ CSS Pseudocode, because they can create complex things though are rather simple. 
+```html
 <html>
   <head>
       <title>My first Web page</title>
@@ -28,5 +28,11 @@
     </div>
   </body>
 </html>
+```
+- If you click the tab marked style.css you will see this
+```css
+.container {padding:20px 10px 20px 10px;}
+h1 {}
+p {}
 ```
 
