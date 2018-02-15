@@ -90,8 +90,9 @@ h1 { color:red; font-size:34px;}
 p { color:#0fcfcfc; font-size:20px;}
 a {color:rgba(233,122,133,0.9); font-size:22px; }
 ```
-- Remember how we discussed tags in html ```<p></p> <a></a> <h1></h1>``` etc.
-- We can style these in css
+- Remember how we discussed tags in html ```html <p></p> <a></a> <h1></h1>``` etc.
+- We can style these in css tab ```html <p>Content</p>``` = ```css p { color:#0fcfcfc; font-size:20px;}``` 
+
 
 
 
