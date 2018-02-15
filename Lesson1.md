@@ -98,6 +98,9 @@ a {color:rgba(233,122,133,0.9); font-size:22px; }
 - Lets look at the code in the css Tag
   - font-size:20px; this sets the font size to 20px
   - CSS attributes are "name:setting;"
+  - @Gaz why so many different ways of exrpessing color:
+    - #0fcfcfc is hex
+    - rgba(233,122,133,0.9) is rgba means (red,green,blue and alpha) alpha means transparency.
       
 
 
