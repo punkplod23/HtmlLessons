@@ -123,6 +123,16 @@ p { color:#141414; font-size:20px;}
 ``` 
 - Have a play with what you have learn't more coming next week.
 
+# Refferences
+- <a href="https://www.w3schools.com/tags/default.asp" target="_blank">HTML Tags</a>
+- <a href="https://www.w3schools.com/cssref/default.asp" target="_blank">CSS attributes</a>
+
+# Next week
+- css classes id
+- imgs
+- structure
+- more bad jokes and grammer
+
 
 
 
