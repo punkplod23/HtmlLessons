@@ -67,8 +67,20 @@ p {}
         </div>
 ```
 - Attributes in html are our best freind wait for the next lesson when we go into more details into this.
-- 
-
+- Lets add an image copy this below into one of the divs
+```html
+<img src="http://78.media.tumblr.com/9bbfd5ea7b2acf5cb70c6776f844c654/tumblr_mi2utg3sgw1s559c9o1_500.gif" width="300" height="100" alt="funny" />
+```
+- Like this
+```html
+   <div class="col-xs-4">
+          <h1>Hammer Time</h1>
+          <p>Du,du,du,dud dud du</p>
+          <p>Can't Touch this</p>
+  
+<img src="http://78.media.tumblr.com/9bbfd5ea7b2acf5cb70c6776f844c654/tumblr_mi2utg3sgw1s559c9o1_500.gif" width="300" height="100" alt="funny" />
+        </div>
+```
 
 
 
