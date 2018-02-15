@@ -42,7 +42,32 @@ p {}
 - HTML stands for hypertext markup language
 - CSS stands for cascading style sheets
 
-# Mark Up
+# Mark Up HTML
+- Lets look at the HTML Code
+```html
+          <p>Style this</p>
+   
+```
+- This is a p tag, tags are represented in <> to open and </> to close example the p above the content that is displayed is "Style this".
+- Change the content of the p in each div tag to something else, remember how we discussed tags above.
+```html
+   <div class="col-xs-4">
+          <h1>Col 1 Title</h1>
+          <p>Style this</p>
+        </div>
+```
+- Can you see the pattern with the tags can you see the class="col-xs-4" we will discuss this more in our next lesson.
+- Lets add something new into each of the three divs lets add an a tag with an attribute href
+```html
+   <div class="col-xs-4">
+          <h1>Col 1 Title</h1>
+          <p>Style this</p>
+          <a href="#nogo">Link 1</a>
+        </div>
+```
+- Attributes in html are our best freind wait for the next lesson when we go into more details into this.
+- 
+
 
 
 
