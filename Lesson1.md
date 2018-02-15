@@ -1,4 +1,4 @@
-# Lesson 1
+# Intro
 - Our first step is open this <a href="https://trinket.io/library/trinkets/a9c2635601">link</a>
 - We are now presented with the below html code, it may look daunting though its just simple HTML
 - We call HTML/ CSS Pseudocode, because they can create complex things though are rather simple. 
@@ -36,3 +36,5 @@ h1 {}
 p {}
 ```
 
+#Break it down
+<img src="http://78.media.tumblr.com/9bbfd5ea7b2acf5cb70c6776f844c654/tumblr_mi2utg3sgw1s559c9o1_500.gif" alt="funny" />
