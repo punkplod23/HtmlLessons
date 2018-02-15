@@ -103,6 +103,7 @@ a {color:rgba(233,122,133,0.9); font-size:22px; }
     - rgba(233,122,133,0.9) is rgba means (red,green,blue and alpha) alpha means transparency.
     - red is an expression of red,
     - Why not just use red, limited color combinations, why not just use hex then because hex does not support transparency.
+    - @Gaz: Why is this so confusing, well once a man called Tim Berners Lee and a computer had an wonderful little baby, then humanity got hold of it
     
       
 
