@@ -86,9 +86,9 @@ p {}
 - There are numerous ways to explain css lets aim for the simplist today alter this in you're style.css click the tab copy and paste below.
 ```css
 .container {padding:20px 10px 20px 10px;}
-h1 { color:red: font-size:20px;}
-p { color:#0fcfcfc; font-size:18px;}
-a {color:rgba(233,122,133,0.5); font-size:16px}
+h1 { color:red; font-size:34px;}
+p { color:#0fcfcfc; font-size:20px;}
+a {color:rgba(233,122,133,0.9); font-size:22px; }
 ```
 
 
