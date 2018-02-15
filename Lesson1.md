@@ -113,6 +113,17 @@ h1 { color:red; font-size:62px;}
 p { color:#141414; font-size:20px;}
 ```       
 - Have a look at a <a href="https://www.w3schools.com/colors/colors_picker.asp">color wheel</a> to replace more colors.
+- Look at the image tag <img , see the src="" attribute replace like follows src="https://upload.wikimedia.org/wikipedia/commons/4/41/Rick_Astley_Dallas.jpg"
+- Lets embed a youtube video.
+  - Copy and paste this code unto one of the divs like this index.html tab
+```html 
+        <div class="col-xs-4">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+``` 
+- Have a play with what you have learn't more coming next week.
+
+
 
 
 
