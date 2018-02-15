@@ -101,6 +101,9 @@ a {color:rgba(233,122,133,0.9); font-size:22px; }
   - @Gaz why so many different ways of exrpessing color:
     - #0fcfcfc is hex
     - rgba(233,122,133,0.9) is rgba means (red,green,blue and alpha) alpha means transparency.
+    - red is an expression of red,
+    - Why not just use red, limited color combinations, why not just use hex then because hex does not support transparency.
+    
       
 
 
