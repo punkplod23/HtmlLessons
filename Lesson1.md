@@ -104,8 +104,16 @@ a {color:rgba(233,122,133,0.9); font-size:22px; }
     - red is an expression of red,
     - Why not just use red, limited color combinations, why not just use hex then because hex does not support transparency.
     - @Gaz: Why is this so confusing, well once a man called Tim Berners Lee and a computer had an wonderful little baby, then humanity got hold of it
-    
-      
+- Lets increase the font size of the H1 tag
+```css 
+h1 { color:red; font-size:62px;}
+``` 
+- Lets change the color of the p tag
+```css 
+p { color:#141414; font-size:20px;}
+```       
+- Have a look at a <a href="https://www.w3schools.com/colors/colors_picker.asp">color wheel</a> to replace more colors.
+
 
 
 
