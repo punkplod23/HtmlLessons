@@ -40,9 +40,9 @@ p {}
 <img src="http://78.media.tumblr.com/9bbfd5ea7b2acf5cb70c6776f844c654/tumblr_mi2utg3sgw1s559c9o1_500.gif" width="300" height="100" alt="funny" />
 
 - HTML stands for hypertext markup language
-  -- This is for structure
+  - HTML is for structure / Layout of the page
 - CSS stands for cascading style sheets
-  -- This is for style
+  - CSS is for the styling of the page.
 
 # Mark Up HTML
 - Lets look at the HTML Code
