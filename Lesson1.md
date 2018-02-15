@@ -38,6 +38,7 @@ p {}
 
 # Break it down
 <img src="http://78.media.tumblr.com/9bbfd5ea7b2acf5cb70c6776f844c654/tumblr_mi2utg3sgw1s559c9o1_500.gif" width="300" height="100" alt="funny" />
+
 - HTML stands for hypertext markup language
 - CSS stands for cascading style sheets
 
